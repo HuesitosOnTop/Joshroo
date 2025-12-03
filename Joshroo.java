@@ -1,7 +1,4 @@
-package Main;
-
 import java.util.*;
-
 public class Joshroo {
     private int flowers;
     private int x;
@@ -351,3 +348,4 @@ public class Joshroo {
                 "Facing: " + direction + "\n";
     }
 }
+
